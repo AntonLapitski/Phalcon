@@ -1,0 +1,13 @@
+{
+    "name": "anton/app",
+    "authors": [
+        {
+            "name": "Anton",
+            "email": "alapitski@neklo.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phalcon/ide-stubs": "^4.1"
+    }
+}
